@@ -1,0 +1,5 @@
+{'Name': 'Dasil Adam', 'Age': 20, 'Address': '123, Street, State', 'Contact': 'dasil.adam@gmail.com', 'Date of Birth': '2004-01-16', 'id': 1}
+{'Name': 'Dasil Adam', 'Age': 15, 'Address': '55, Address', 'Contact': 'uuscb@email.com', 'Date of Birth': '2009-09-09', 'id': 2}
+{'Name': 'Olivia Maceachern', 'Age': 27, 'Address': '123 Street Road', 'Contact': 'olivia@gmail.com', 'Date of Birth': '1997-04-28', 'id': 3}
+{'Name': 'Blimp Zone', 'Age': 27, 'Address': 'Road Street Avenue', 'Contact': 'blimp@email.com', 'Date of Birth': '1997-04-28', 'id': 4}
+{'Name': 'Olicia M', 'Age': 25, 'Address': 'Nfnf', 'Contact': 'fqfqfqf', 'Date of Birth': '1999-09-09', 'id': 5}

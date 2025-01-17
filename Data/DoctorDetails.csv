@@ -1,0 +1,5 @@
+Name,Specialty,Contact information,Availability,Id
+Dasil Adam,Cardiology,DasilAdam1@email.com,"['Mon', 'Tue', 'Wed']",1
+Olivia Maceachern,Neurology,OliviaMaceachern@email.com,"['Mon', 'Wed', 'Fri']",2
+Jayden Smith,Pediatrics,JaydenSmith3@email.com,"['Sun', 'Fri', 'Sat']",3
+Banana,Savant,Banana4@email.com,"['Mon', 'Tue', 'Wed', 'Sun']",4
